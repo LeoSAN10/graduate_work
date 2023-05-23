@@ -1,0 +1,26 @@
+.main_section{
+    background-image: url("../../assets/fon1.jpg");
+    background-repeat: no-repeat;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Oswald';
+}
+
+.title_text{
+    color: rgb(255, 255, 255);
+    font-size: 150px;
+    margin-top: 100px;
+    letter-spacing: 10px;
+    filter: brightness(200);
+}
+
+.subtitle_text{
+    color: rgb(255, 255, 255);
+    font-size: 120px;
+    margin-top: 80px;
+    letter-spacing: 10px;
+    filter: brightness(200);
+    text-align: center;
+}
